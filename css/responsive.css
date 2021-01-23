@@ -1,0 +1,18 @@
+@media screen and (max-width: 576px) {
+    #welcome_sec{
+        text-align: center;
+    }
+    #deshes_section{
+        text-align: center;
+    }
+    #footer_section{
+        text-align: center;
+    }
+    #footer_copyright{
+        text-align: center;
+    }
+    .footer_link ul{
+        float: none;
+        margin-top: 20px;
+    }
+}
